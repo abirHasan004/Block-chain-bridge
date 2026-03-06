@@ -11,7 +11,17 @@
   "dependencies": {
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "@rainbow-me/rainbowkit": "^2.2.1",
+    "@tanstack/react-query": "^5.64.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "ethers": "^6.13.4",
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.476.0",
+    "tailwind-merge": "^2.5.5",
+    "viem": "^2.21.45",
+    "wagmi": "^2.14.6"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
